@@ -1,0 +1,4 @@
+First days:
+
+  - load the data
+  - starting working in cool analysis, not yet finished

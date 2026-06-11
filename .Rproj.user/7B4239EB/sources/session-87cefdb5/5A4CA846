@@ -3,7 +3,7 @@
     "path": "~/git training/main_script.R",
     "project_path": "main_script.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1088810772",
     "contents": "",
     "dirty": false,
     "created": 1781165444545.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1781166699,
+    "lastKnownWriteTime": 1781176403,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1781166699472,
+    "last_content_update": 1781176403611,
     "read_only": false,
     "read_only_alternatives": []
 }
